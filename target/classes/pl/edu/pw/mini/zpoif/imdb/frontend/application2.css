@@ -1,0 +1,27 @@
+.root{
+ -fx-background-color: #394e5c;
+}
+
+.label{
+ -fx-font-size: 16;
+ -fx-font-family: "Lucida Console";
+ -fx-text-fill: "white";
+ -fx-alignment: left;
+}
+
+#tytul{
+ -fx-font-size: 36;
+ -fx-alignment: center;
+}
+#podobnyUno{
+ -fx-font-size: 14;
+ -fx-alignment: left;
+}
+#podobnyDos{
+ -fx-font-size: 14;
+ -fx-alignment: left;
+}
+#podobnyTres{
+ -fx-font-size: 14;
+ -fx-alignment: left;
+}
